@@ -1,0 +1,2 @@
+Wigglit is a Harengon Sorcerer from the feywild. Now knowing how or why he transformed from a rabbit to a Harengon, he has traveled the lands in look for an answer!
+Wigglit comes off as naive and nonchalant, but wields terrific sorcery using his wild magic!

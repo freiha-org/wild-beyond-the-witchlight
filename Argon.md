@@ -1,0 +1,4 @@
+Argon is a feral Tiefling, who as a rebel inside Baldur’s Gate, they worked with the thieves guild for a long time until splintering from them and joining the Tiefling Liberation Army, a thieves’ faction fighting for a cause: The liberation of Baldur’s Gate workers from the bankers, aristocrats, landlords, and politicians.
+
+They always quote literature from their manifesto. They are impulsive and have a short fuse Rather hiding in the shadows Not keen on small talk but can give rebellious speeches if necessary.
+Argon never submits to authority. Either things are decided together or by them. Loyalty gets rewarded - Betrayal gets punished Blunt force can solve problems if other more sneaky means fail

@@ -1,0 +1,1 @@
+Fudd is a mischievous goblin alchemist, who likes to pull pranks and jokes on others. He always has his trusty alchemy jug to spawn wine, beer or mayonaise from, and use it as he sees fit for his chicanery.
