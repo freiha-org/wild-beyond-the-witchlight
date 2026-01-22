@@ -18,22 +18,22 @@
                 "aRef": "HEAD",
                 "bRef": ""
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-ghost",
+              "title": "split-diff-view"
             }
           },
           {
             "id": "bfee8d5e4abdd357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Player's Journal.md",
+                "bFile": "Player's Journal.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: Player's Journal  (Working Tree)"
             }
           }
         ],
