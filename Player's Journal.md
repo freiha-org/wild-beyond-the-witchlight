@@ -887,5 +887,3 @@ The next day, the party goes further north until they reach a large set of hills
   
 
 The party then decides to skirt the charred and cut down areas of the hilly terrain, hiding behind the trees, until they find a group of redcaps and slaves that are cutting down trees at the edge of the forest. The party decided to try and kill the redcaps and free the slaves, so they hid behind some of the trees and prepared for an ambush…
-
-poopy poopa
