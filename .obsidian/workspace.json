@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "players/Wigglit Quibblefuzz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Wigglit Quibblefuzz"
             }
           }
         ],
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "players/Wigglit Quibblefuzz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Wigglit Quibblefuzz"
             }
           },
           {
@@ -198,10 +198,10 @@
   },
   "active": "bfee8d5e4abdd357",
   "lastOpenFiles": [
-    "Player's.md",
     "README.md",
-    "players.md",
     "Player's Journal.md",
+    "Player's.md",
+    "players.md",
     "players/Wigglit Quibblefuzz.md",
     "players/Imuen.md",
     "players/Fudd.md",

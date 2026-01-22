@@ -1,10 +1,10 @@
-# My Obsidian Notes
-This repository contains my Obsidian notes, organized as follows:
+# My Obsidian Notes\n
+This repository contains my Obsidian notes, organized as follows:\n
 - 📁 [players](players/)
-  - 📄 [Argon.md](Argon.md)
-  - 📄 [Fudd.md](Fudd.md)
-  - 📄 [Ghee.md](Ghee.md)
-  - 📄 [Imuen.md](Imuen.md)
-  - 📄 [Leneus.md](Leneus.md)
-  - 📄 [Wigglit Quibblefuzz.md](Wigglit Quibblefuzz.md)
-- 📄 [Player's Journal.md](Player's Journal.md)
+  - 📄 [Argon.md](players/Argon.md)
+  - 📄 [Fudd.md](players/Fudd.md)
+  - 📄 [Ghee.md](players/Ghee.md)
+  - 📄 [Imuen.md](players/Imuen.md)
+  - 📄 [Leneus.md](players/Leneus.md)
+  - 📄 [Wigglit Quibblefuzz.md](players/Wigglit%20Quibblefuzz.md)
+- 📄 [Player's Journal.md](Player%27s%20Journal.md)
