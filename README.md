@@ -1,5 +1,5 @@
-# My Obsidian Notes\n
-This repository contains my Obsidian notes, organized as follows:\n
+# My Obsidian Notes
+This repository contains my Obsidian notes, organized as follows:
 - 📁 [players](players/)
   - 📄 [Argon](players/Argon.md)
   - 📄 [Fudd](players/Fudd.md)

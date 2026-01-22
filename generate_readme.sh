@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Clear or create README.md
-echo "# My Obsidian Notes\n" > README.md
-echo "This repository contains my Obsidian notes, organized as follows:\n" >> README.md
+echo "# My Obsidian Notes" > README.md
+echo "This repository contains my Obsidian notes, organized as follows:" >> README.md
 
 # Function to URL-encode a string
 urlencode() {
