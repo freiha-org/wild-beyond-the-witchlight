@@ -1,7 +1,5 @@
 The Wild Beyond the Witchlight
 
-Player’s Journal
-
 # Prelude
 
 During their return from Wytchway and the haunted mansion occupied by the Vistani Wereravens, the party composed of [[Ghee]], the Aarakocra wizard, Imuen, the “human” rogue, [[Argon]], the tiefling rogue, [[Leneus]] the druid, [[Fudd]] (Gurk) the Goblin, [[Wigglit Quibblefuzz]], the Harengon sorcerer, and the warforged monk named after an untranscribable series of sounds, notices flashing lights and bursts of fireworks in the distance, marking the enchanting presence of the Witchlight Carnival. As they make their way there from Grimsdorf, Imuen gets recalled back to Candlekeep to hunt with her brother, leaving the party for the time being.
