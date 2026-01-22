@@ -1,10 +1,5 @@
 #!/bin/bash
 
-
-# Clear or create README.md
-echo "# My Obsidian Notes" > README.md
-echo "This repository contains my Obsidian notes, organized as follows:" >> README.md
-
 # Clear or create README.md
 echo "# My Obsidian Notes\n" > README.md
 echo "This repository contains my Obsidian notes, organized as follows:\n" >> README.md
@@ -47,11 +42,11 @@ process_directory() {
       echo "${indent}- 📁 [$folder_name](${relative_path}${encoded_folder}/)" >> README.md
       process_directory "$item" "$indent  " "${relative_path}${encoded_folder}/"
     else
-      # If it's a Markdown file, add it to README.md
+      # If it's a Markdown file, add it to README.md (without .md extension)
       if [[ "$item" == *.md ]]; then
-        local file_name=$(basename "$item")
+        local file_name=$(basename "$item" .md)
         local encoded_file=$(urlencode "$file_name")
-        echo "${indent}- 📄 [$file_name](${relative_path}${encoded_file})" >> README.md
+        echo "${indent}- 📄 [$file_name](${relative_path}${encoded_file}.md)" >> README.md
       fi
     fi
   done
