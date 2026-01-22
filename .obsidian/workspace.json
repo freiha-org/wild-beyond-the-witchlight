@@ -26,14 +26,14 @@
             "id": "bfee8d5e4abdd357",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Player's Journal.md",
-                "bFile": "Player's Journal.md",
-                "aRef": ""
+                "file": "Player's Journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Player's Journal  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Player's Journal"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "bfee8d5e4abdd357",
   "lastOpenFiles": [
-    "Player's Journal.md",
     "README.md",
+    "Player's Journal.md",
     "New folder",
     "players/Wigglit Quibblefuzz.md",
     "Player's.md",

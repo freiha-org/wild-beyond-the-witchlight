@@ -1,5 +1,5 @@
 The Wild Beyond the Witchlight
-poop
+
 # Prelude
 
 During their return from Wytchway and the haunted mansion occupied by the Vistani Wereravens, the party composed of [[Ghee]], the Aarakocra wizard, Imuen, the “human” rogue, [[Argon]], the tiefling rogue, [[Leneus]] the druid, [[Fudd]] (Gurk) the Goblin, [[Wigglit Quibblefuzz]], the Harengon sorcerer, and the warforged monk named after an untranscribable series of sounds, notices flashing lights and bursts of fireworks in the distance, marking the enchanting presence of the Witchlight Carnival. As they make their way there from Grimsdorf, Imuen gets recalled back to Candlekeep to hunt with her brother, leaving the party for the time being.
@@ -887,3 +887,5 @@ The next day, the party goes further north until they reach a large set of hills
   
 
 The party then decides to skirt the charred and cut down areas of the hilly terrain, hiding behind the trees, until they find a group of redcaps and slaves that are cutting down trees at the edge of the forest. The party decided to try and kill the redcaps and free the slaves, so they hid behind some of the trees and prepared for an ambush…
+
+poopy poopa
