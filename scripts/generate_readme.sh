@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Move out of the scripts directory
-cd ..
-
 # Clear or create README.md
 echo "# My Obsidian Notes" > README.md
 echo "This repository contains my Obsidian notes, organized as follows:" >> README.md
