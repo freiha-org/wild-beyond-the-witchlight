@@ -16,12 +16,16 @@ jobs:
         with:
           path: obsidian-content
 
+      - name: Test access to Quartz repo
+        run: |
+          git ls-remote https://${{ secrets.QUARTZ_ACCESS_TOKEN }}@github.com/freiha-org/quartz-obsidian-client.git
+
       - name: Checkout custom Quartz
         uses: actions/checkout@v3
         with:
           repository: freiha-org/quartz-obsidian-client
           path: quartz
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.QUARTZ_ACCESS_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
