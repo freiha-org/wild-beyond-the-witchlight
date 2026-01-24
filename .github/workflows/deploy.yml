@@ -31,10 +31,13 @@ jobs:
       - name: Build Quartz
         run: |
           ls
+          echo "-----------------------"
           ls obsidian-content
+          echo "-----------------------"
           cd quartz
           npm install
           npx quartz build
+          echo "-----------------------"
           ls public
 
       - name: Deploy
