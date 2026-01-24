@@ -33,7 +33,7 @@ jobs:
           cd quartz
           npm install
           npx quartz build
-          ls /public
+          ls public
 
       - name: Deploy
         run: |
