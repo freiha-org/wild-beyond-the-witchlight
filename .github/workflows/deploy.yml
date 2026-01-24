@@ -30,6 +30,8 @@ jobs:
 
       - name: Build Quartz
         run: |
+          ls
+          ls obsidian-content
           cd quartz
           npm install
           npx quartz build
