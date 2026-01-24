@@ -1,0 +1,29 @@
+name: Deploy Obsidian Files
+
+# Trigger on push to main branch
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      # Step 1: Check out repo
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 5: Deploys to remote server
+      - name: Deploy
+        run: |
+          # Sync files to nginx
+          rsync -avz --delete --exclude='.gitignore' ./ /var/www/dnd/
+          
+          # Fix permissions so Nginx can read
+          sudo chown -R deploy-web:www-data /var/www/dnd/
+          sudo chmod -R 775 /var/www/dnd/
+          
+          # Reload Nginx to serve the new build
+          sudo systemctl reload nginx
