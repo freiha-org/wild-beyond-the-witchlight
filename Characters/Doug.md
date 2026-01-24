@@ -2,9 +2,9 @@
 
 A member of the adventuring party. He participated in a gnome poetry contest with [[Wigglit Quibblefuzz]] and won some gifts. He saved a dwarf who was about to fall from a firefly during the [[Dragonfly Rides|dragonfly race]], raising the carnival goers' spirits.
 
-Doug was crowned the Witchlight Monarch at the [[Big Top]] and gained a small butterfly called 'Charm of the Monarch' that gives him the power of flight for one hour.
+Doug was crowned the Witchlight Monarch at the [[Big Top]] and gained a small butterfly called [[Charm of the Monarch]] that gives him the power of flight for one hour.
 
-He owns a frog named [[Frederiko]]. Doug worked on crafting snake teeth into a lance (with some damage in the process) and enjoys reading fey poetry.
+He owns a frog named [[Frederiko]], and an animated coal named [[Kiiki]], who serves now as his main steed and companion.
 
 ## Items
 - [[Charm of the Monarch]] - grants flight for one hour

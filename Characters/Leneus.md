@@ -3,9 +3,7 @@ Leneus (nicknamed Lenny) is a Satyr druid from the Feywild. They are heavily con
 He is a hermit, finding no kinship among the druids nor among the Satyrs.
 
 ## Abilities
-- Can cast speak with animals
 - Learned to turn into different animals from [[Tsu Harabax]]
-- Can turn into a spider
 - Can commune with the forest
 
 ## Notable Events

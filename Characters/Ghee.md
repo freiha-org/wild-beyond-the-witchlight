@@ -1,4 +1,4 @@
-Ghee is an Aarakocra scholar focused on the study of death. They have long lived in isolation within the Aarakocra Archives, dedicated to understanding the end of life. While others avoid the subject, I examine it closely. Death is a natural part of existence, and their work is to learn all that they can about it.
+Ghee is an Aarakocra scholar focused on the study of death. They have long lived in isolation within the Aarakocra Archives, dedicated to understanding the end of life. While others avoid the subject, they examine it closely. Death is a natural part of existence, and their work is to learn all that they can about it.
 
 Ghee's uncle, the duke of Zamekpior, was the next heir to the throne but vanished unexpectedly! Ghee follows the book "Fecchin's autobiography" which guides them to him.
 

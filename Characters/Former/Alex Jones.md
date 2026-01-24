@@ -1,8 +1,7 @@
-# Alex Jones
 
 A pixie bard who works as a witchlight hand at the [[Witchlight Carnival]]. He was tasked by [[Mr Light]] to keep an eye on new guests but not dig too deep.
 
-Alex Jones joined the party and traveled with them to [[Prismeer]]. He has a tendency to frequently blurt out lies and conspiracy theories. He stole [[Mr Witch]]'s watch before the crowning of the Witchlight Monarch.
+Alex Jones joined the party and traveled with them to [[Prismeer]]. He has a tendency to frequently blurt out lies and conspiracy theories (which he believes are true). He stole [[Mr Witch]]'s watch before the crowning of the Witchlight Monarch.
 
 He developed a romantic connection with [[Jingle Jangle]] on [[Telemy Hill]]. He also founded the RAF with [[Argon]] using radical Bullywugs in [[Downfall]].
 
