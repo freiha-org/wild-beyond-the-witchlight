@@ -30,7 +30,6 @@ jobs:
 
       - name: Build Quartz
         run: |
-          tree
           cd quartz
           npm install
           npx quartz build
