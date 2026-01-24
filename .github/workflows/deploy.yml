@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Obsidian content
         uses: actions/checkout@v3
         with:
-          path: quartz/content
+          path: obsidian-content
 
       - name: Checkout custom Quartz
         uses: actions/checkout@v3
@@ -34,8 +34,9 @@ jobs:
           echo "-----------------------"
           ls quartz
           echo "-----------------------"
-          ls quartz/content
+          ls obsidian-content
           echo "-----------------------"
+          mv obsidian-content/ quartz/content/
           cd quartz
           npm install
           npx quartz build
