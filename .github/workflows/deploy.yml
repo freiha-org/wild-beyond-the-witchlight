@@ -11,17 +11,17 @@ jobs:
     runs-on: self-hosted
 
     steps:
-      - name: Checkout Obsidian content
-        uses: actions/checkout@v3
-        with:
-          path: obsidian-content
-
       - name: Checkout custom Quartz
         uses: actions/checkout@v3
         with:
           repository: freiha-org/quartz-obsidian-client
           path: quartz
           token: ${{ secrets.QUARTZ_ACCESS_TOKEN }}
+
+      - name: Checkout Obsidian content
+        uses: actions/checkout@v3
+        with:
+          path: quartz/content
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -30,18 +30,10 @@ jobs:
 
       - name: Build Quartz
         run: |
-          ls
-          echo "-----------------------"
-          ls quartz
-          echo "-----------------------"
-          ls obsidian-content
-          echo "-----------------------"
-          mv obsidian-content/ quartz/content/
+          ls -R -L 2
           cd quartz
           npm install
           npx quartz build
-          echo "-----------------------"
-          ls public
 
       - name: Deploy
         run: |
