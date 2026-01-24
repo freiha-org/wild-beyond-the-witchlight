@@ -16,10 +16,6 @@ jobs:
         with:
           path: obsidian-content
 
-      - name: Test access to Quartz repo
-        run: |
-          git ls-remote https://${{ secrets.QUARTZ_ACCESS_TOKEN }}@github.com/freiha-org/quartz-obsidian-client.git
-
       - name: Checkout custom Quartz
         uses: actions/checkout@v3
         with:
@@ -40,9 +36,12 @@ jobs:
 
       - name: Deploy
         run: |
-          # Sync built site to nginx
-          sudo rm -rf /var/www/dnd/*
-          sudo cp -r quartz/public/* /var/www/dnd/
+          # Remove old build files
+          
+          rm -rf /var/www/dnd/*
+          
+          # Copy new build files
+          cp -r quartz/public/* /var/www/dnd/
 
           # Fix permissions so Nginx can read
           sudo chown -R deploy-web:www-data /var/www/dnd/
