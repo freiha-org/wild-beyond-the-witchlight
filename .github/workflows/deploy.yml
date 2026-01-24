@@ -34,6 +34,8 @@ jobs:
           echo "-----------------------"
           ls quartz
           echo "-----------------------"
+          ls quartz/content
+          echo "-----------------------"
           cd quartz
           npm install
           npx quartz build
