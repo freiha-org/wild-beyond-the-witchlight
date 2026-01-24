@@ -3,3 +3,8 @@
 .obsidian
 .idea
 .claude
+
+# scripts
+/scripts/node_modules
+/scripts/yarn.lock
+_site
