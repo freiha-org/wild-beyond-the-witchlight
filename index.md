@@ -5,7 +5,7 @@
 ---
 
 ## The Party
-<img src="https://ibb.co/rRp9PxNG" alt="Alt text" width="300" height="auto">
+[![fPHHi4S.md.jpg](https://iili.io/fPHHi4S.md.jpg)](https://freeimage.host/i/fPHHi4S)
 A band of unlikely heroes, drawn together by fate and bound by adventure through the mystical realm of [[Prismeer]].
 
 | Character               | Race           | Class               | Player Status |
