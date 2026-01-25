@@ -1,3 +1,8 @@
+
+<img src="https://i.redd.it/fwrqfo3fqwje1.jpeg" alt="Alt text" width="300" height="auto">
+<sup>Credits: https://www.reddit.com/user/The_Pale_Duke/</sup>
+<br>
+
 Argon is a feral Tiefling, who as a rebel inside [[Baldur's Gate]], they worked with the thieves guild for a long time until splintering from them and joining the Tiefling Liberation Army, a thieves' faction fighting for a cause: The liberation of Baldur's Gate workers from the bankers, aristocrats, landlords, and politicians.
 
 They always quote literature from their manifesto. They are impulsive and have a short fuse and would rather hide in the shadows. Not keen on small talk but can give rebellious speeches if necessary.
