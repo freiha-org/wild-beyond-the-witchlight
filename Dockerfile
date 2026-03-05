@@ -1,7 +1,7 @@
 # Stage 1: Build using quartz-base
 FROM ghcr.io/freiha-org/quartz-base:latest AS builder
 COPY . /usr/src/app/content/
-RUN npx quartz build
+RUN npm run quartz -- build
 
 # Stage 2: Serve
 FROM nginx:alpine
