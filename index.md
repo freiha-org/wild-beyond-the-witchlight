@@ -58,6 +58,7 @@ The complete chronicle of the party's adventures, day by day.
 - **[[NPCs/|NPCs]]** - Characters encountered along the way
 - **[[Locations/|Locations]]** - Places visited across the realms
 - **[[Items/|Items]]** - Magical items, treasures, and curiosities
+- **[[Creatures/|Creatures]]** - Monsters, beasts, and fey creatures of Prismeer
 - **[[players/|Player Characters]]** - Detailed character profiles
 
 ### The Hourglass Coven
